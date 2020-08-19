@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IntentsProj</string>
+    <string name="sum">+</string>
+    <string name="sub">-</string>
+    <string name="mul">*</string>
+    <string name="Div">/</string>
+    <string name="cal"></string>
+</resources>
